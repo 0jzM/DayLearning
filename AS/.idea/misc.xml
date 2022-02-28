@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Jzz/Desktop/AS/app/src/main/res/layout/activity_about.xml" value="0.25" />
+        <entry key="..\:/Users/Jzz/Desktop/AS/app/src/main/res/layout/activity_record.xml" value="0.25" />
+        <entry key="..\:/Users/Jzz/Desktop/AS/app/src/main/res/layout/dialog_budget.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/Jzz/Desktop/AS/app/src/main/res/layout/dialog_calendar.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/Jzz/Desktop/AS/app/src/main/res/layout/fragment_income.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/Jzz/Desktop/AS/app/src/main/res/layout/fragment_outcome.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/Jzz/Desktop/AS/app/src/main/res/layout/item_chartfrag_lv.xml" value="0.1984375" />
+        <entry key="..\:/Users/Jzz/Desktop/AS/app/src/main/res/layout/item_chartfrag_top.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/Jzz/Desktop/AS/app/src/main/res/layout/item_dialogcal_gv.xml" value="0.1" />
+        <entry key="..\:/Users/Jzz/Desktop/AS/app/src/main/res/layout/item_dialogcal_hsv.xml" value="0.1" />
+        <entry key="..\:/Users/Jzz/Desktop/AS/app/src/main/res/layout/item_mainlv.xml" value="0.17798913043478262" />
+        <entry key="..\:/Users/Jzz/Desktop/AS/app/src/main/res/layout/item_recordfrag_gv.xml" value="0.17798913043478262" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK" />
+</project>

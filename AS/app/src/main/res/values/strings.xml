@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">我的小账本</string>
+    <string name="editone">记一笔</string>
+    <string name="month_out">本月支出</string>
+    <string name="month_in">本月收入</string>
+    <string name="out">支出</string>
+    <string name="in">收入</string>
+    <string name="budget">预算剩余</string>
+    <string name="setbudget">设置预算</string>
+    <string name="table">查看图表</string>
+    <string name="add_remark">添加备注</string>
+    <string name="remark">备注</string>
+    <string name="ensure">确定</string>
+    <string name="cancel">取消</string>
+    <string name="about">关于</string>
+    <string name="setting">设置</string>
+    <string name="history_record">账单记录</string>
+    <string name="account_info">账单详情</string>
+    <string name="input_time">请输入时间（24小时制）</string>
+    <string name="search_info">请输入搜索信息（备注）</string>
+    <string name="data_empty">数据为空，无此类数据...</string>
+    <string name="chart_info">账单详情</string>
+
+    <string name="about_appinfo">应用信息</string>
+    <string name="about_version">版本</string>
+    <string name="about_1">1.0</string>
+    <string name="about_app">关于应用</string>
+    <string name="about_bala">这是我的第一个安卓项目，参考网上资料完成的，使用语言为java,工具为Android Studio.应用到了Activity,Fragment和数据库相关知识。
+    做这个软件，一方面这是寒假的要求，另一方面是下学期将要学习安卓软件的制作，提前学习一下。有什么不足的地方，希望大家可以将问题发我邮箱。</string>
+    <string name="about_developer">开发者</string>
+    <string name="about_me">关于我</string>
+    <string name="about_loc">石家庄铁道大学 信息科学与技术学院 软件工程 贾梓钊（20级），正在学习安卓</string>
+    <string name="about_email">发送邮箱</string>
+    <string name="about_email1">作者邮箱：jia2285769360@163.com,我们可以共同学习，共同进步。</string>
+    <string name="history_info">本月账单详情</string>
+    <string name="clearall">清空所有数据</string>
+    <string name="notdata">暂无数据</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
